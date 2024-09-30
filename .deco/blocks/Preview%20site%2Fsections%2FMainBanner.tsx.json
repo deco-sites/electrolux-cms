@@ -1,0 +1,50 @@
+{
+  "__resolveType": "site/sections/MainBanner.tsx",
+  "images": [
+    {
+      "image": {
+        "decoding": "async",
+        "loading": "lazy",
+        "fetchPriority": "high",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/ae43421b-d9f8-40c0-adbe-929e28ebac85/banner1.webp",
+        "mobileImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/c80c9ba8-91dd-4de0-9867-9b48fd473e73/banner1-mobile.webp",
+        "alt": "Aniversario Loja Electrolux",
+        "title": "Aniversario Loja Electrolux",
+        "width": 1920,
+        "height": 380,
+        "mobileWidth": 640,
+        "mobileHeight": 480,
+        "preloading": false
+      },
+      "analytics": {
+        "analyticsProperties": "provide"
+      },
+      "link": {
+        "url": "https://loja.electrolux.com.br/2169?map=productClusterIds&utmi_cp=aniversario-electrolux&utmi_p=home&utmi_pc=banner-tv",
+        "attributeTitle": "Aniversario Loja Electrolux"
+      }
+    },
+    {
+      "image": {
+        "decoding": "async",
+        "loading": "lazy",
+        "fetchPriority": "high",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/cdba3b4b-abd5-4f22-997f-6d7f5e704605/banner2.webp",
+        "mobileImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/d111dc3e-e766-4a5c-93ac-80f717a035a0/banner2-mobile.webp",
+        "alt": "Conheça as geladeiras Electrolux com tecnologia AutoSense ",
+        "title": "Conheça as geladeiras Electrolux com tecnologia AutoSense ",
+        "width": 1920,
+        "height": 380,
+        "mobileWidth": 640,
+        "mobileHeight": 380
+      },
+      "analytics": {
+        "analyticsProperties": "provide"
+      },
+      "link": {
+        "attributeTitle": "Conheça as geladeiras Electrolux com tecnologia AutoSense ",
+        "url": "https://loja.electrolux.com.br/geladeiras-autosense?utmi_cp=lancamento-geladeiras&utmi_p=home&utmi_pc=banner-tv"
+      }
+    }
+  ]
+}

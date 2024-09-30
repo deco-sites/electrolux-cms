@@ -1,0 +1,21 @@
+{
+  "__resolveType": "site/sections/MainBanner.tsx",
+  "image": [
+    "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12268/a14fc77a-4879-486f-8692-128a42bec6e0",
+    "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/37d8777f-56e4-4ea3-ba4f-ac584eba94a3/image.png"
+  ],
+  "images": [
+    {
+      "decoding": "auto",
+      "loading": "auto",
+      "fetchPriority": "auto",
+      "analyticsProperties": "none"
+    },
+    {
+      "decoding": "auto",
+      "loading": "auto",
+      "fetchPriority": "auto",
+      "analyticsProperties": "none"
+    }
+  ]
+}
