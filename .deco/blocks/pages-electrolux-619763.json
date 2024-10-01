@@ -1,6 +1,6 @@
 {
   "name": "electrolux",
-  "path": "/electrolux",
+  "path": "/",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
