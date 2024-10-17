@@ -1,0 +1,15 @@
+{
+  "__resolveType": "site/sections/ImageList.tsx",
+  "images": [
+    {
+      "image": {
+        "decoding": "async",
+        "loading": "lazy",
+        "fetchPriority": "high"
+      },
+      "analytics": {
+        "analyticsProperties": "provide"
+      }
+    }
+  ]
+}

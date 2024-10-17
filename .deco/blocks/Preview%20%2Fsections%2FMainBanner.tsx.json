@@ -1,0 +1,94 @@
+{
+  "__resolveType": "site/sections/MainBanner.tsx",
+  "image": [
+    "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/12268/a14fc77a-4879-486f-8692-128a42bec6e0",
+    "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/37d8777f-56e4-4ea3-ba4f-ac584eba94a3/image.png"
+  ],
+  "images": [
+    {
+      "image": {
+        "decoding": "async",
+        "loading": "eager",
+        "fetchPriority": "high",
+        "src": {
+          "__resolveType": "website/flags/multivariate/image.ts",
+          "variants": [
+            {
+              "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/7f65827f-b2f0-47e0-b185-5f5497382a35/banner-mais-vendidos-mobile.gif",
+              "rule": {
+                "__resolveType": "website/matchers/device.ts",
+                "mobile": true,
+                "tablet": true
+              }
+            },
+            {
+              "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/fa533c73-9158-4a52-924c-9ca01ed7f35d/banner-mais-vendidos.gif",
+              "rule": {
+                "__resolveType": "website/matchers/device.ts",
+                "tablet": false,
+                "desktop": true
+              }
+            }
+          ]
+        },
+        "alt": "Especial mais vendidos 48 Horas até 10% OFF no pix",
+        "title": "Especial mais vendidos 48 Horas até 10% OFF no pix",
+        "width": 1920,
+        "height": 420,
+        "preload": true
+      },
+      "link": {
+        "url": "https://loja.electrolux.com.br/1992?map=productClusterIds&utmi_cp=Electrolux-%2048H&utmi_p=home&utmi_pc=banner-tv",
+        "attributeTitle": "Especial mais vendidos 48 Horas até 10% OFF no pix"
+      },
+      "analytics": {
+        "analyticsEvent": true,
+        "promotionId": "Especial mais vendidos 48 Horas",
+        "promotionName": "Especial mais vendidos 48 Horas",
+        "promotionPosition": "banner_tv"
+      }
+    },
+    {
+      "image": {
+        "decoding": "async",
+        "loading": "lazy",
+        "fetchPriority": "high",
+        "src": {
+          "__resolveType": "website/flags/multivariate/image.ts",
+          "variants": [
+            {
+              "rule": {
+                "__resolveType": "website/matchers/device.ts",
+                "desktop": true
+              },
+              "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/f2965e3c-f8b9-497e-a705-671969ee516a/banner-portateis-week.webp"
+            },
+            {
+              "rule": {
+                "__resolveType": "website/matchers/device.ts",
+                "mobile": true,
+                "tablet": true
+              },
+              "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/1233375b-5fbe-4ca5-b9b1-5f82036dbbc3/banner-portateis-week-mobile.webp"
+            }
+          ]
+        },
+        "alt": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
+        "title": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
+        "width": 1920,
+        "height": 420,
+        "preload": false
+      },
+      "link": {
+        "attributeTitle": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
+        "url": "/1991?map=productClusterIds&utmi_cp=Portáteis-week&utmi_p=home&utmi_pc=banner-tv"
+      },
+      "analytics": {
+        "analyticsEvent": true,
+        "promotionName": "Portáteis week",
+        "promotionId": "Portáteis week",
+        "promotionPosition": "banner_tv"
+      }
+    }
+  ]
+}

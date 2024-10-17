@@ -1,0 +1,27 @@
+{
+  "__resolveType": "site/sections/MainBanner.tsx",
+  "images": [
+    {
+      "decoding": "sync",
+      "loading": "eager",
+      "fetchPriority": "high",
+      "analyticsProperties": "none",
+      "image": {
+        "decoding": "async",
+        "loading": "lazy",
+        "fetchPriority": "high"
+      }
+    },
+    {
+      "decoding": "sync",
+      "loading": "eager",
+      "fetchPriority": "high",
+      "analyticsProperties": "none",
+      "image": {
+        "decoding": "async",
+        "loading": "lazy",
+        "fetchPriority": "high"
+      }
+    }
+  ]
+}
