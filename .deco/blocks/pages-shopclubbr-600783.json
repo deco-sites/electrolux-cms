@@ -21,10 +21,10 @@
                       "mobile": true,
                       "tablet": true
                     },
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/7f65827f-b2f0-47e0-b185-5f5497382a35/banner-mais-vendidos-mobile.gif"
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/de9f31a8-0e6a-410e-94a8-2361f36155db/banner-halloween-shopclub-mobile.webp"
                   },
                   {
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/fa533c73-9158-4a52-924c-9ca01ed7f35d/banner-mais-vendidos.gif",
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/a989454c-6aa0-4904-8533-cb08befa3d73/banner-halloween-shopclub.webp",
                     "rule": {
                       "__resolveType": "website/matchers/device.ts",
                       "desktop": true
@@ -32,20 +32,20 @@
                   }
                 ]
               },
-              "alt": "Especial mais vendidos 48 Horas até 10% OFF no pix",
-              "title": "Especial mais vendidos 48 Horas até 10% OFF no pix",
+              "alt": "Halloween",
+              "title": "Halloween",
               "width": 1920,
               "height": 420,
               "preload": true
             },
             "link": {
-              "attributeTitle": "Especial mais vendidos 48 Horas até 10% OFF no pix",
-              "url": "/1992?map=productClusterIds&utmi_cp=Electrolux- 48H&utmi_p=home&utmi_pc=banner-tv"
+              "attributeTitle": "Halloween",
+              "url": "/1286?map=productClusterIds&amp;utmi_cp=halloween&amp;utmi_p=home&amp;utmi_pc=banner-tv"
             },
             "analytics": {
               "analyticsEvent": true,
-              "promotionId": "Especial mais vendidos 48 Horas",
-              "promotionName": "Especial mais vendidos 48 Horas",
+              "promotionId": "Halloween",
+              "promotionName": "Halloween",
               "promotionPosition": "banner_tv"
             }
           },
@@ -63,26 +63,26 @@
                       "mobile": true,
                       "tablet": true
                     },
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/1233375b-5fbe-4ca5-b9b1-5f82036dbbc3/banner-portateis-week-mobile.webp"
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/041770f8-eed2-4060-bad4-4128c20d1886/banner-portateis-week-shopclub-mobile.webp"
                   },
                   {
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/f2965e3c-f8b9-497e-a705-671969ee516a/banner-portateis-week.webp",
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/b510a5f8-f026-454d-8297-aeaec2a85597/banner-portateis-week-shopclub.webp",
                     "rule": {
                       "__resolveType": "website/matchers/always.ts"
                     }
                   }
                 ]
               },
-              "alt": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
-              "title": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
+              "alt": "Portáteis week",
+              "title": "Portáteis week",
               "width": 1920,
               "height": 480
             },
             "link": {
-              "url": "/1991?map=productClusterIds&utmi_cp=Portáteis-week&utmi_p=home&utmi_pc=banner-tv",
-              "attributeTitle": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
-              "attributeNofollow": true,
-              "openNewTab": true
+              "url": "/eletroportateis?utmi_cp=portateis_week&amp;utmi_p=home&amp;utmi_pc=banner-tv",
+              "attributeTitle": "Portáteis week",
+              "attributeNofollow": false,
+              "openNewTab": false
             },
             "analytics": {
               "analyticsEvent": true,
@@ -92,12 +92,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "Footer"
       }
     }
   ],
