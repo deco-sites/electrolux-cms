@@ -21,10 +21,10 @@
                       "mobile": true,
                       "tablet": true
                     },
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/7f65827f-b2f0-47e0-b185-5f5497382a35/banner-mais-vendidos-mobile.gif"
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/cbeee3f5-f0b3-428d-a38d-3195520214c6/banner-atualiza-sua-casa-continental-mobile.webp"
                   },
                   {
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/fa533c73-9158-4a52-924c-9ca01ed7f35d/banner-mais-vendidos.gif",
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/f9230d0e-0c90-48be-a528-9b7fd42174f6/banner-atualiza-sua-casa-continental.webp",
                     "rule": {
                       "__resolveType": "website/matchers/device.ts",
                       "desktop": true
@@ -32,20 +32,20 @@
                   }
                 ]
               },
-              "alt": "Especial mais vendidos 48 Horas até 10% OFF no pix",
-              "title": "Especial mais vendidos 48 Horas até 10% OFF no pix",
+              "alt": "Atualiza sua casa",
+              "title": "Atualiza sua casa",
               "width": 1920,
               "height": 420,
               "preload": true
             },
             "link": {
               "attributeTitle": "Especial mais vendidos 48 Horas até 10% OFF no pix",
-              "url": "/1992?map=productClusterIds&utmi_cp=Electrolux- 48H&utmi_p=home&utmi_pc=banner-tv"
+              "url": "/1625?map=productClusterIds&amp;utmi_cp=atualiza-sua-casa&amp;utmi_p=home&amp;utmi_pc=banner-tv"
             },
             "analytics": {
               "analyticsEvent": true,
-              "promotionId": "Especial mais vendidos 48 Horas",
-              "promotionName": "Especial mais vendidos 48 Horas",
+              "promotionId": "Atualiza sua casa",
+              "promotionName": "Atualiza sua casa",
               "promotionPosition": "banner_tv"
             }
           },
@@ -63,31 +63,31 @@
                       "mobile": true,
                       "tablet": true
                     },
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/1233375b-5fbe-4ca5-b9b1-5f82036dbbc3/banner-portateis-week-mobile.webp"
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/ca4fc3a3-7736-41e2-af8f-e1924c981685/banner-desempenho-em-dobro-continental-mobile.webp"
                   },
                   {
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/f2965e3c-f8b9-497e-a705-671969ee516a/banner-portateis-week.webp",
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/aea27398-20f2-4e29-ab92-2a23b8b7b751/banner-desempenho-em-dobro-continental.webp",
                     "rule": {
                       "__resolveType": "website/matchers/always.ts"
                     }
                   }
                 ]
               },
-              "alt": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
-              "title": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
+              "alt": "Até 30% + Frete Grátis Sudeste* + Pix 5% OFF",
+              "title": "Até 30% + Frete Grátis Sudeste* + Pix 5% OFF",
               "width": 1920,
               "height": 480
             },
             "link": {
-              "url": "/1991?map=productClusterIds&utmi_cp=Portáteis-week&utmi_p=home&utmi_pc=banner-tv",
+              "url": "/1800?map=productClusterIds&utmi_cp=conti-kits&utmi_p=home&utmi_pc=banner-tv",
               "attributeTitle": "Portáteis week utilize os cupons e ganhe até 15%OFF + Frete grátis*",
-              "attributeNofollow": true,
-              "openNewTab": true
+              "attributeNofollow": false,
+              "openNewTab": false
             },
             "analytics": {
               "analyticsEvent": true,
-              "promotionId": "Portáteis week",
-              "promotionName": "Portáteis week",
+              "promotionId": "Desempenho em dobro",
+              "promotionName": "Desempenho em dobro",
               "promotionPosition": "banner_tv"
             }
           }
