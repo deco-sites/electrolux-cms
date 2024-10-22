@@ -24,7 +24,7 @@
                     "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/7f65827f-b2f0-47e0-b185-5f5497382a35/banner-mais-vendidos-mobile.gif"
                   },
                   {
-                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-lab/fa533c73-9158-4a52-924c-9ca01ed7f35d/banner-mais-vendidos.gif",
+                    "value": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/electrolux-cms/a989454c-6aa0-4904-8533-cb08befa3d73/banner-halloween-shopclub.webp",
                     "rule": {
                       "__resolveType": "website/matchers/device.ts",
                       "desktop": true
